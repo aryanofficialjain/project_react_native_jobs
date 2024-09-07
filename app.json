@@ -6,6 +6,14 @@
     },
     "name": "JobEon",
     "slug": "job_eon",
-    "icon": "./assets/icon.png"
+    "icon": "./assets/icon.png",
+    "extra": {
+      "eas": {
+        "projectId": "101065f7-7593-42ad-b5c2-fa7e1e99b0a5"
+      }
+    },
+    "android": {
+      "package": "com.aryanofficial.job_eon"
+    }
   }
 }

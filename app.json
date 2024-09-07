@@ -4,7 +4,8 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "jobsift",
-    "slug": "jobsift"
+    "name": "JobEon",
+    "slug": "job_eon",
+    "icon": "./assets/icon.png"
   }
 }
